@@ -9,6 +9,7 @@ def concierto():
         "fecha": "20 de diciembre de 2026",
         "artistas": [
             "Neutro Shorty",
+            "Yailin la mas viral",
             "La Más Doll",
             "Danny Ocean"
         ]
